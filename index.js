@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateTeam = require("./src/page-template.js");
+const generatehtml = require("./src/page-template.js");
 
 const Engineer = require("./lib/Engineer")
 const Intern = require("./lib/Intern");
@@ -26,8 +26,8 @@ const questions = async () => {
         },
         {
         type: "input",
-        message: "what is your e-mail?",
-        name: "e-mail",
+        message: "what is your email?",
+        name: "email",
         },
         {
         type: "list",
@@ -49,8 +49,8 @@ const questions = async () => {
       const newManager = new Manager(
           answers.name,
           answers.id,
-          answers.e-mail,
-          managerAns,officeNumber
+          answers.email,
+          managerAns.officeNumber
       );
       newStaffMemberData.push(newManager);
 
@@ -66,7 +66,7 @@ const questions = async () => {
         const newEngineer = new Engineer(
          answers.name,
          answers.id,
-         answers.e-mail,
+         answers.email,
          githubAns.github
         );
         newStaffMemberData.push(newEngineer);
@@ -85,7 +85,7 @@ const questions = async () => {
     const newIntern = new Intern(
         answers.name,
         answers.id,
-        answers.e-mail,
+        answers.email,
         internAns.school
        );
        newStaffMemberData.push(newIntern);
@@ -117,7 +117,7 @@ function createTeam () {
     console.log("new member", newStaffMemberData)
     fs.writeFileSync(
     "./output/index.html",
-     generateTeam(newStaffMemberData),
+     generatehtml(newStaffMemberData),
      "utf-8"
   );
 }
