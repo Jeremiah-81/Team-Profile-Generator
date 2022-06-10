@@ -29,6 +29,10 @@ You can look up a singel employee or an entire department based on what your loo
 ## This README was generated with ❤️ by: Jeremiah Brockett
 
 
+
+? what is your name? Bortus
+? what is your ID number? 2400
+? what is your email? bJaloja@email.com
 ? what is your role? Manager
 ? What is your office number 1701
 ? What would you like to do next? Add a new member
