@@ -30,33 +30,33 @@ You can look up a singel employee or an entire department based on what your loo
 
 
 
-? what is your name? Bortus
+? what is your name?
 ? what is your ID number? 2400
-? what is your email? bJaloja@email.com
+? what is your email? @email.com
 ? what is your role? Manager
 ? What is your office number 1701
 ? What would you like to do next? Add a new member
 ? what is your name? John
 ? what is your ID number? 2420
-? what is your e-mail? Jlamarr@email.com
+? what is your e-mail? @email.com
 ? what is your role? Engineer
 ? What is your GitHub user name? space-man
 ? What would you like to do next? Add a new member
-? what is your name? Isaac
+? what is your name? 
 ? what is your ID number? 2440
-? what is your e-mail? kaylon-1@email.com
+? what is your e-mail? @email.com
 ? what is your role? Engineer
-? What is your GitHub user name? assimilate-u
+? What is your GitHub user name? 
 ? What would you like to do next? Add a new member
-? what is your name? Alara
+? what is your name? 
 ? what is your ID number? 2430
-? what is your e-mail? mtxelaya@email.com
+? what is your e-mail? @email.com
 ? what is your role? Intern
-? What school did you attend? Union Point Academy
+? What school did you attend?  Academy
 ? What would you like to do next? Add a new member
-? what is your name? Darulio
+? what is your name? 
 ? what is your ID number? 2460
-? what is your e-mail? blueguy@email.com
+? what is your e-mail? @email.com
 ? what is your role? Intern
-? What school did you attend? Union Point Academy
+? What school did you attend?  Academy
 ? What would you like to do next? Create team
