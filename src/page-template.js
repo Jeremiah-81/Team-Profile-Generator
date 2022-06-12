@@ -1,5 +1,5 @@
 function generatehtml(data) {
-    return `# ${data.title} 
+    return `# ${data[0].name} 
     ## Description
     - ${data.description}
     
