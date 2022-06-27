@@ -110,7 +110,7 @@ async function promptQuestions() {
     }
     return createTeam();
 }
-
+ 
 promptQuestions();
 
 function createTeam () {      

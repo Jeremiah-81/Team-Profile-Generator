@@ -1,0 +1,59 @@
+/* <div class="container-fluid">
+<div class="row">
+  <nav class="navbar navbar-dark bg-dark mb-5">
+    <span class="navbar-brand mb-0 h1 w-100 text-center">Team Profile</span>
+    <br>
+</nav>
+    </div>
+</div>
+</div>
+<!-- This makes the cards into rows from a column. -->
+<div class="container">
+<div class="row">
+  <div class="team-area col-12 d-flex flex-wrap justify-content-between bg-secondary p-3">
+</nav>
+  <div class="card mx-auto" style="width: 18rem">
+    <h5 class="card-header">1<br /><br />Manager</h5>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">ID:</li>
+        <li class="list-group-item">email:</li>
+        <li class="list-group-item">Office Number:</li>
+    </ul>
+</div>
+<br>
+<div class="card mx-auto" style="width: 18rem">
+  <h5 class="card-header">2<br /><br />Engineer</h5>
+  <ul class="list-group list-group-flush">
+      <li class="list-group-item">ID:</li>
+      <li class="list-group-item">email:</li>
+      <li class="list-group-item">GitHub username:</li>
+  </ul>
+</div>
+<br>
+<div class="card mx-auto" style="width: 18rem">
+  <h5 class="card-header">3<br /><br />Engineer</h5>
+  <ul class="list-group list-group-flush">
+      <li class="list-group-item">ID:</li>
+      <li class="list-group-item">email:</li>
+      <li class="list-group-item">GitHub username:</li>
+  </ul>
+</div>
+<br>
+<div class="card mx-auto" style="width: 18rem">
+<h5 class="card-header">4<br /><br />Intern</h5>
+<ul class="list-group list-group-flush">
+    <li class="list-group-item">ID:</li>
+    <li class="list-group-item">email:</li>
+    <li class="list-group-item">GitHub username:</li>
+</ul>
+<br>
+</div>
+<br>
+<div class="card mx-auto" style="width: 18rem">
+<h5 class="card-header">5<br /><br />Intern</h5>
+<ul class="list-group list-group-flush">
+  <li class="list-group-item">ID:</li>
+  <li class="list-group-item">email:</li>
+  <li class="list-group-item">GitHub username:</li>
+</ul>
+</div> */
