@@ -31,33 +31,32 @@ https://getbootstrap.com/docs/5.1/customize/color/
 
 
 
-? what is your name?
-? what is your ID number? 2400
-? what is your email? @email.com
+? what is your name? Bowser
+? what is your ID number? 007
+? what is your email? KoopaChomp@email.com
 ? what is your role? Manager
-? What is your office number 1701
-? What would you like to do next? Add a new member
-? what is your name? John
-? what is your ID number? 2420
-? what is your e-mail? @email.com
+? What is your office number? 1000
+
+? what is your name? Mario
+? what is your ID number? 64
+? what is your e-mail? Fireflower@email.com
 ? what is your role? Engineer
-? What is your GitHub user name? space-man
-? What would you like to do next? Add a new member
-? what is your name? 
-? what is your ID number? 2440
-? what is your e-mail? @email.com
+? What is your GitHub user name? M-Kingdom
+
+? what is your name? Luigi
+? what is your ID number? 002
+? what is your e-mail? Greenhat@email.com
 ? what is your role? Engineer
-? What is your GitHub user name? 
-? What would you like to do next? Add a new member
-? what is your name? 
-? what is your ID number? 2430
-? what is your e-mail? @email.com
+? What is your GitHub user name? green-boot
+
+? what is your name? Peach
+? what is your ID number? 001
+? what is your e-mail? Peachy@email.com
 ? what is your role? Intern
-? What school did you attend?  Academy
-? What would you like to do next? Add a new member
-? what is your name? 
-? what is your ID number? 2460
-? what is your e-mail? @email.com
+? What school did you attend? Muchroom Academy
+
+? what is your name? Toad
+? what is your ID number? 005
+? what is your e-mail? toadstool@email.com
 ? what is your role? Intern
-? What school did you attend?  Academy
-? What would you like to do next? Create team
+? What school did you attend? Muchroom Academy
