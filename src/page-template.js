@@ -6,7 +6,7 @@
 //     `;
 // }
   
-function generatehtml(data) {
+function generatehtml(_data) {
   return `
   <!DOCTYPE html>
   <html lang="en">
@@ -32,48 +32,48 @@ function generatehtml(data) {
     <div class="team-area col-9 d-flex flex-wrap justify-content-between bg-secondary p-3">
   </nav>
     <div class="card mx-auto" style="width: 18rem">
-      <h5 class="card-header">1<br /><br />Manager</h5>
+      <h5 class="card-header">Bowser<br /><br />Manager</h5>
       <ul class="list-group list-group-flush">
-          <li class="list-group-item">ID:</li>
-          <li class="list-group-item">email:/li>
-          <li class="list-group-item">Office Number:</li>
+          <li class="list-group-item">ID:007</li>
+          <li class="list-group-item">email:KoopaChomp@email.com</li>
+          <li class="list-group-item">Office Number:1000</li>
       </ul>
   </div>
   <br>
   <div class="card mx-auto" style="width: 18rem">
-    <h5 class="card-header">2<br /><br />Engineer</h5>
+    <h5 class="card-header">Mario<br /><br />Engineer</h5>
     <ul class="list-group list-group-flush">
-        <li class="list-group-item">ID:</li>
-        <li class="list-group-item">email:</li>
-        <li class="list-group-item">GitHub username:</li>
+        <li class="list-group-item">ID:64</li>
+        <li class="list-group-item">email:Fireflower@email.com</li>
+        <li class="list-group-item">GitHub username:M-Kingdom</li>
     </ul>
   </div>
   <br>
   <div class="card mx-auto" style="width: 18rem">
-    <h5 class="card-header">3<br /><br />Engineer</h5>
+    <h5 class="card-header">Luigi<br /><br />Engineer</h5>
     <ul class="list-group list-group-flush">
-        <li class="list-group-item">ID:</li>
-        <li class="list-group-item">email:</li>
-        <li class="list-group-item">GitHub username:</li>
+        <li class="list-group-item">ID:002</li>
+        <li class="list-group-item">email:Greenhat@email.com</li>
+        <li class="list-group-item">GitHub username:green-boot</li>
     </ul>
   </div>
   <br>
   <div class="card mx-auto" style="width: 18rem">
-  <h5 class="card-header">4<br /><br />Intern</h5>
+  <h5 class="card-header">Peach<br /><br />Intern</h5>
   <ul class="list-group list-group-flush">
-      <li class="list-group-item">ID:</li>
-      <li class="list-group-item">email:</li>
-      <li class="list-group-item">GitHub username:</li>
+      <li class="list-group-item">ID:001</li>
+      <li class="list-group-item">email:Peachy@email.com</li>
+      <li class="list-group-item">School:Muchroom Academy</li>
   </ul>
   <br>
   </div>
   <br>
   <div class="card mx-auto" style="width: 18rem">
-  <h5 class="card-header">5<br /><br />Intern</h5>
+  <h5 class="card-header">Toad<br /><br />Intern</h5>
   <ul class="list-group list-group-flush">
-    <li class="list-group-item">ID:</li>
-    <li class="list-group-item">email:</li>
-    <li class="list-group-item">GitHub username:</li>
+    <li class="list-group-item">ID:005</li>
+    <li class="list-group-item">email:toadstool@email.com</li>
+    <li class="list-group-item">School:Muchroom Academy</li>
   </ul>
   </div>
       </div>
