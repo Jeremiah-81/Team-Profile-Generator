@@ -1,12 +1,4 @@
-// function generatehtml(data) {
-//     return `# ${data[0].name} 
-//     ## 
-//     Engineer
-//     - ${data.manager}
-//     `;
-// }
-  
-function generatehtml(_data) {
+ function generatehtml(_data) {
   return `
   <!DOCTYPE html>
   <html lang="en">
