@@ -63,7 +63,7 @@ function generatehtml(_data) {
   <ul class="list-group list-group-flush">
       <li class="list-group-item">ID:001</li>
       <li class="list-group-item">email:Peachy@email.com</li>
-      <li class="list-group-item">School:Muchroom Academy</li>
+      <li class="list-group-item">School:Mushroom Academy</li>
   </ul>
   <br>
   </div>
@@ -73,7 +73,7 @@ function generatehtml(_data) {
   <ul class="list-group list-group-flush">
     <li class="list-group-item">ID:005</li>
     <li class="list-group-item">email:toadstool@email.com</li>
-    <li class="list-group-item">School:Muchroom Academy</li>
+    <li class="list-group-item">School:Mushroom Academy</li>
   </ul>
   </div>
       </div>
