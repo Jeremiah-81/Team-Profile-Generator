@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-This is designed to keep track of new and present employees and their job titles.
+This is designed to keep track of any new or current employees and their job titles.
 
 ## Motivation
 
@@ -8,7 +8,9 @@ With the ever growing industries things can get confusing trying to keep up with
 
 ## Screenshot
 
-https://raw.githubusercontent.com/Jeremiah-81/Team-Profile-Generator/main/10-object-oriented-programming-homework-demo.png
+https://raw.githubusercontent.com/Jeremiah-81/Team-Profile-Generator/main/assets/images/10-object-oriented-programming-homework-demo.png
+
+https://raw.githubusercontent.com/Jeremiah-81/Team-Profile-Generator/main/assets/images/TEAM%20PROFILE%20GENERATOR%20SCREEN%20SHOT.png
 
 ## Tech/Framework
 
