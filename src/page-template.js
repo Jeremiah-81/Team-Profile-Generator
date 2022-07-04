@@ -1,4 +1,4 @@
- function generatehtml(_data) {
+function generatehtml(_data) {
   return `
   <!DOCTYPE html>
 <html lang="en">
@@ -151,8 +151,4 @@
   `;
 }
 
-
-
-  module.exports = generatehtml;
-
-
+module.exports = generatehtml;

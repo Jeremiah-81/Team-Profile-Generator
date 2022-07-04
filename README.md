@@ -23,45 +23,12 @@ To run the application and generate a team type: [node index.js] inside the term
 
 You can look up an employee by name or by the department you looking for.
 
+## Walkthrough Video
+
+Walkthrough Video: https://drive.google.com/file/d/1P7x0TibKb18xdFHzGrgMVThalcJAmymb/view
+
 ### Credits
 
-https://getbootstrap.com/docs/5.1/customize/color/
+https://drive.google.com/file/d/1P7x0TibKb18xdFHzGrgMVThalcJAmymb/view
 
 ## This README was generated with ❤️ by: Jeremiah Brockett
-
-
-
-
-<!-- 
-
-  Manager {
-    name: 'Bowser',
-    id: '1',
-    email: 'KoopaChomp@email.com',
-    officeNumber: '1000'
-  },
-  Engineer {
-    name: 'Mario',
-    id: '2',
-    email: 'Fireflower@email.com',
-    github: 'Jeremiah-81'
-  },
-  Engineer {
-    name: 'Luigi',
-    id: '3',
-    email: 'Greenhat@email.com',
-    github: 'Jeremiah-81'
-  },
-  Intern {
-    name: 'Peach',
-    id: '4',
-    email: 'Peachy@email.com',
-    school: 'Mushroom Academy'
-  },
-  Intern {
-    name: 'Toad',
-    id: '5',
-    email: 'Toadstool@email.com',
-    school: 'Mushroom Academy'
-  }
-] -->
